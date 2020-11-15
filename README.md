@@ -5,6 +5,8 @@ __Diabetes Prediction__ Objective of this project is to diagnostically predict w
 
 __House Price Prediction__ Built several linear regression models including lasso, ridge, or ElasticNet and trained them with the training set. Used k-fold cross-validation to select the best hyperparameters. Skills: data cleaning, exploratory data analysis, feature engineering, regression modeling, cross validation
 
+__Heart Disease Detection__ Compared accuracies of decision tree classifier to random forest. 
+
 __Life Expectancy__ Exploratory data analysis on factors that affect life expectancy. Specifically, which factors increase the expected life in the countries and which factors decrease it. Skills: exploratory data analysis, data cleaning, univariate and multivariate exploration, feature engineering, PCA
 
 __World Happiness__
