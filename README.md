@@ -1,7 +1,7 @@
 # Data-Science-projects-with-python
 Thinkful projects
 
-__Life Expectancy__
+__Life Expectancy__ Goal: Skills: exploratory data analysis, data cleaning, univariate and multivariate exploration, feature engineering
 
 __World Happiness__
 
