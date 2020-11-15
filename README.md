@@ -9,7 +9,9 @@ __Heart Disease Detection__ Compared accuracies of decision tree classifier to r
 
 __Life Expectancy__ Exploratory data analysis on factors that affect life expectancy. Specifically, which factors increase the expected life in the countries and which factors decrease it. Skills: exploratory data analysis, data cleaning, univariate and multivariate exploration, feature engineering, PCA
 
-__Recipe Rating Prediction__ Used iingredient and keyword list to predict the rating of recipes while testing SVM Regressor vs SVC Classifier
+__Recipe Rating Prediction__ Used ingredient and keyword list to predict the rating of recipes while testing SVM Regressor vs SVC Classifier
+
+__Social Survey Partner Cohabitation Prediction__ Used social survey data to predict whether or not someone lives with their partner. Improved error rate of model by testing different strategies such as changing the loss function, increasing iterations, and maximum depth
 
 __World Happiness__
 
