@@ -1,6 +1,8 @@
 # Data-Science-projects-with-python
 Noteable Thinkful projects: 
 
+__Credit Card Fraud Detection__ Worked with a large dataset of 280k+ transactions and used logistic regression, decision tree classifier, and gradient boosting classifier compare model performance at detecting fraudulent transactions
+
 __Diabetes Prediction__ Objective of this project is to diagnostically predict whether or not a patient has diabetes based on certain diagonostic measurements. All patients are females at least 21 years old of Pima Indian heritage. Skills: data exploration, regression modeling
 
 __House Price Prediction__ Built several linear regression models including lasso, ridge, or ElasticNet and trained them with the training set. Used k-fold cross-validation to select the best hyperparameters. Skills: data cleaning, exploratory data analysis, feature engineering, regression modeling, cross validation
@@ -15,4 +17,3 @@ __Social Survey Partner Cohabitation Prediction__ Used social survey data to pre
 
 __World Happiness__
 
-__Credit Card Fraud Detection__
