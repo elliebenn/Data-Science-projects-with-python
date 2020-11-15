@@ -1,5 +1,5 @@
 # Data-Science-projects-with-python
-Thinkful projects
+Noteable Thinkful projects: 
 
 __Diabetes Prediction__ Objective of this project is to diagnostically predict whether or not a patient has diabetes based on certain diagonostic measurements. All patients are females at least 21 years old of Pima Indian heritage. Skills: data exploration, regression modeling
 
@@ -9,7 +9,7 @@ __Heart Disease Detection__ Compared accuracies of decision tree classifier to r
 
 __Life Expectancy__ Exploratory data analysis on factors that affect life expectancy. Specifically, which factors increase the expected life in the countries and which factors decrease it. Skills: exploratory data analysis, data cleaning, univariate and multivariate exploration, feature engineering, PCA
 
-__Recipe Rating Prediction__ Explore if we can use the ingredient and keyword list to predict the rating
+__Recipe Rating Prediction__ Used iingredient and keyword list to predict the rating of recipes while testing SVM Regressor vs SVC Classifier
 
 __World Happiness__
 
