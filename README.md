@@ -1,7 +1,8 @@
 # Data-Science-projects-with-python
 Noteable Thinkful projects: 
 
-* __Credit Card Fraud Detection__ Worked with a large dataset of 280k+ transactions and used logistic regression, decision tree classifier, and gradient boosting classifier compare model performance at detecting fraudulent transactions
+* __Credit Card Fraud Detection__ 
+  * Worked with a large dataset of 280k+ transactions and used logistic regression, decision tree classifier, and gradient boosting classifier compare model performance at detecting fraudulent transactions
 
 __Diabetes Prediction__ Objective of this project is to diagnostically predict whether or not a patient has diabetes based on certain diagonostic measurements. All patients are females at least 21 years old of Pima Indian heritage. Skills: data exploration, regression modeling
 
