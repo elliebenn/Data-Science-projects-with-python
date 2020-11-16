@@ -16,5 +16,8 @@ Noteable Thinkful projects:
 * __Social Survey Partner Cohabitation Prediction__ 
   * Used social survey data to predict whether or not someone lives with their partner. Improved error rate of model by testing different strategies such as changing the loss function, increasing iterations, and maximum depth
 * __World Happiness__ 
-  * Conducted statistical analysis and hypothesis testing to determine how difference factors influence overall happiness in 157 countries for the purposes of selecting an ideal country to raise a family in
+  * Conducted statistical analysis and hypothesis testing in Python to determine how different factors influence overall happiness in 157 countries for the purposes of selecting an ideal country to raise a family in. 
+  * Created compelling visualizations to find trends between select factors to find a list of countries that met desired specifications to make recommendations on countries to live in based on the happiness citizens perceived themselves to be.
+  * __Made with:__  Pandas, Numpy, Seaborn, Matplotlib, Scipy
+
 
